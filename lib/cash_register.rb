@@ -78,10 +78,10 @@ class CashRegister
 
   def void_last_transaction
       @total -= @combined_value
-      
-      
+
+
       end
-      
+
   end
 
 end
